@@ -1,5 +1,5 @@
 # JVN_Database
-An intuitive dashboard empowering teams with efficient project management tools.
+An intuitive dashboard empowering teams with efficient project management tools for Justice Video Network (JVN) of Ontario Service (Canada).
 
 ## Overview
 Due to the reliance on Excel for managing various project progress and related data, information was often scattered across different files. Worse still, employees frequently had to update a project’s status across multiple sheets, leading to inconsistencies in data. As a software engineer, I found this situation frustrating, so I decided to design this project. It offers an intuitive and straightforward system for employees to manage data efficiently, helping to streamline collaboration across different teams.
