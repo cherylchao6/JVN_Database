@@ -7,7 +7,7 @@ Due to the reliance on Excel for managing various project progress and related d
 ## Visit the demo website 
 ### For now, only intake teams modules are done.
 ### Demo account
-email: cheryl2@nmpyt21gmail.onmicrosoft.com
+email: testuser@nmpyt21gmail.onmicrosoft.com
 
 password: @cC831006 
 
