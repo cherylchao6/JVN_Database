@@ -13,8 +13,10 @@ password: @cC831006
 
 https://database-frontend-test.vercel.app
 
-## Architecture
-![structure (1)](https://github.com/user-attachments/assets/dc530b9a-d3dd-4bf4-86bb-6a9eb2384216)
+## System Design
+![截圖 2025-03-22 中午12 35 15](https://github.com/user-attachments/assets/d02f5509-5a4b-49f4-9a22-85d6c8399318)
+
+
 
 ## Database Design
 ![JVN database design](https://github.com/user-attachments/assets/010ba0f1-eb65-41b5-8cdf-b13e544516ed)
